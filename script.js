@@ -45,10 +45,10 @@ class Settings {
     constructor() {
         this.hilliness = 100;
         this.initial_time = 20.0;
-        this.initial_fuel = 15;
+        this.initial_fuel = 10;
         this.max_vertical_vel = 1.0;
         this.max_horizontal_vel = 1.0;
-        this.max_landing_angle = 8;
+        this.max_landing_angle = 6;
         this.gravity = 0.03;
         this.max_peak_height_percent = 0.9;
         this.min_valley_height_percent = 0.02;
