@@ -48,7 +48,7 @@ class Settings {
         this.initial_fuel = 10;
         this.max_vertical_vel = 1.0;
         this.max_horizontal_vel = 1.0;
-        this.max_landing_angle = 6;
+        this.max_landing_angle = 7;
         this.gravity = 0.03;
         this.max_peak_height_percent = 0.9;
         this.min_valley_height_percent = 0.02;
